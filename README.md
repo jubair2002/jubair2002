@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Habibullah Jubair</h1>
-<h3 align="center">passionate DevOps & Cloud Enthusiast from Bangladesh</h3>
+<h3 align="center">passionate DevOps & Cloud Learner from Bangladesh</h3>
 
 - 🔭 i'm currently working on **DevOps & Cloud Technologies.**
 
