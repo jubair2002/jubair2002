@@ -2,8 +2,8 @@
   <img src="https://media.licdn.com/dms/image/v2/C4D1BAQGIMaXb4UGOPg/company-background_10000/company-background_10000/0/1650259499937/devopsengineers_cover?e=2147483647&v=beta&t=U1fqXUIFs12iOQs2_wT_b6Or55gq_ftOrBXdAg9mOps" alt="Cover Photo" width="100%" />
 </div>
 
-<h1 align="center">Hi, I'm Habibullah Jubair 🇧🇩</h1>
-<h3 align="center">A passionate DevOps & Cloud Enthusiast from Bangladesh</h3>
+<h1 align="center">Hi, I'm Habibullah Jubair</h1>
+<h3 align="center">A passionate DevOps & Cloud Enthusiast from Bangladesh 🇧🇩</h3>
 
 ---
 
