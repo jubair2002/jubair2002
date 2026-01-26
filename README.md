@@ -15,7 +15,7 @@
 
 - 👯 I'm looking to collaborate on **DevOps projects and open-source contributions**
 
-- 📫 How to reach me **hmjubair12@gmail.com**,**habibullah.jubair2002@outlook.com**
+- 📫 How to reach me **hmjubair12@gmail.com** , **habibullah.jubair2002@outlook.com**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/jubair2002) and [Portfolio](https://jubair2002.github.io/jubair.github.io)
 
