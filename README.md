@@ -62,7 +62,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Habibullah_Jubair-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/habibullah-jubair)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jubair2002)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://jubair2002.github.io/jubair.github.io)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://jubair-portfolio-one.vercel.app)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hmjubair12@gmail.com)
 
 ---
