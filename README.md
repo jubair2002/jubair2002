@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/C4D1BAQGIMaXb4UGOPg/company-background_10000/company-background_10000/0/1650259499937/devopsengineers_cover?e=2147483647&v=beta&t=U1fqXUIFs12iOQs2_wT_b6Or55gq_ftOrBXdAg9mOps" alt="Cover Photo" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/C4D1BAQGIMaXb4UGOPg/company-background_10000/company-background_10000/0/1650259499937/devopsengineers_cover?e=2147483647&v=beta&t=U1fqXUIFs12iOQs2_wT_b6Or55gq_ftOrBXdAg9mOps" alt="Cover" width="100%" />
 </div>
 
-# Hi, I'm Habibullah Jubair 
+# Hi, I'm Habibullah Jubair
 
-🇧🇩 **Dhaka, Bangladesh** |  **DevOps & Cloud Engineer** |  **Infrastructure Automation Enthusiast** | **Learner**
+🇧🇩 **Dhaka, Bangladesh** · **DevOps & Cloud Engineer** · **Infrastructure Automation Enthusiast** · **Learner**
+
+---
 
 ## Tech Stack & Tools
 
@@ -31,21 +33,28 @@
 ![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+---
+
 ## Current Projects
 
--  **[SenseLearn](https://github.com/jubair2002/senseLearn-learning-hub.git)** - SenseLearn is an inclusive learning platform designed to support deaf, deaf-mute, and visually impaired students in Bangladesh.
--  **[IaC Deployment Azure](https://github.com/jubair2002/azure-iac-deployment-terraform.git)** - Terraform-based Infrastructure as Code (IaC) solution for deploying a production-ready Azure cloud infrastructure.
--  **[Monitoring with Grafana](https://github.com/jubair2002/devops-cluster-monitoring-stack.git)** -  kubernetes cluster with full observability using grafana,prometheus,loki and tempo.
--  **[CI/CD with GitOps](https://github.com/jubair2002/gitlab-ci-cd-with-GitOps-Deployment.git)** - Fully automated ci cd pipleline with gitops deployment in AKS Cluster.
--  **[Microservice Deployment AKS](https://github.com/jubair2002/microservice-app-deployment-helmChart-AKS.git)** - microservice bsed python application deployment in azure kubernetes service(AKS) using helm charts.
+|  | Project | Description |
+|:---:|---|-------------|
+| 1 | [SenseLearn](https://github.com/jubair2002/senseLearn-learning-hub) | Inclusive learning platform for deaf, deaf-mute & visually impaired students in Bangladesh |
+| 2 | [Azure IaC](https://github.com/jubair2002/azure-iac-deployment-terraform) | Terraform-based IaC for production-ready Azure cloud infrastructure |
+| 3 | [K8s Monitoring](https://github.com/jubair2002/devops-cluster-monitoring-stack) | Kubernetes cluster observability with Grafana, Prometheus, Loki & Tempo |
+| 4 | [CI/CD GitOps](https://github.com/jubair2002/gitlab-ci-cd-with-GitOps-Deployment) | Automated CI/CD pipeline with GitOps deployment on AKS |
+| 5 | [Microservices AKS](https://github.com/jubair2002/microservice-app-deployment-helmChart-AKS) | Python microservice app deployment on AKS using Helm charts |
 
+---
 
 ## What I'm Doing
 
-- **Cloud Architecture** - Designing scalable, resilient infrastructure on AWS and Azure
-- **Kubernetes Deep Dive** - Mastering container orchestration and service mesh
-- **IaC Everything** - Terraforming all the things
-- **Learning in Public** - Sharing DevOps workflows and automation tips
+- **Cloud Architecture** — Designing scalable, resilient infrastructure on AWS and Azure
+- **Kubernetes Deep Dive** — Mastering container orchestration and service mesh
+- **IaC Everything** — Terraforming all the things
+- **Learning in Public** — Sharing DevOps workflows and automation tips
+
+---
 
 ## GitHub Activity
 
@@ -58,18 +67,20 @@
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jubair2002&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" height="200" />
 </div>
 
+---
+
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Habibullah_Jubair-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/habibullah-jubair)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jubair2002)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://jubair-portfolio-one.vercel.app)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hmjubair12@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-jubair2002-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jubair2002)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Habibullah_Jubair-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/habibullah-jubair)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563eb?style=flat-square)](https://jubair-portfolio-one.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hmjubair12@gmail.com)
 
 ---
 
-<summary>More About Me</summary>
+## More About Me
 
--  Focus: Cloud-native architecture and Kubernetes
--  Currently learning: Advanced K8s patterns, Service Mesh, GitOps
--  Interested in: SRE practices, Platform Engineering
--  Open to: DevOps collaboration and open-source contributions
+- **Focus:** Cloud-native architecture and Kubernetes
+- **Currently learning:** Advanced K8s patterns, Service Mesh, GitOps
+- **Interested in:** SRE practices, Platform Engineering
+- **Open to:** DevOps collaboration and open-source contributions
