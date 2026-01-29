@@ -2,57 +2,74 @@
   <img src="https://media.licdn.com/dms/image/v2/C4D1BAQGIMaXb4UGOPg/company-background_10000/company-background_10000/0/1650259499937/devopsengineers_cover?e=2147483647&v=beta&t=U1fqXUIFs12iOQs2_wT_b6Or55gq_ftOrBXdAg9mOps" alt="Cover Photo" width="100%" />
 </div>
 
-<h1 align="center">Hi, I'm Habibullah Jubair</h1>
-<h3 align="center">A passionate DevOps & Cloud Enthusiast from Bangladesh 🇧🇩</h3>
+# Hi, I'm Habibullah Jubair 
 
----
+🇧🇩 **Dhaka, Bangladesh** |  **DevOps & Cloud Engineer** |  **Infrastructure Automation Enthusiast** | **Learner**
 
-### About Me
+## Tech Stack & Tools
 
-- 🔭 I'm currently working on **DevOps & Cloud Technologies**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub_Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Azure_DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-- 🌱 I'm currently learning **Kubernetes, Terraform, and Cloud Architecture**
+## Current Projects
 
-- 👯 I'm looking to collaborate on **DevOps projects and open-source contributions**
+-  **[SenseLearn](https://github.com/jubair2002/senseLearn-learning-hub.git)** - SenseLearn is an inclusive learning platform designed to support deaf, deaf-mute, and visually impaired students in Bangladesh.
+-  **[IaC Deployment Azure](https://github.com/jubair2002/azure-iac-deployment-terraform.git)** - Terraform-based Infrastructure as Code (IaC) solution for deploying a production-ready Azure cloud infrastructure.
+-  **[Monitoring with Grafana](https://github.com/jubair2002/devops-cluster-monitoring-stack.git)** -  kubernetes cluster with full observability using grafana,prometheus,loki and tempo.
+-  **[CI/CD with GitOps](https://github.com/jubair2002/gitlab-ci-cd-with-GitOps-Deployment.git)** - Fully automated ci cd pipleline with gitops deployment in AKS Cluster.
+-  **[Microservice Deployment AKS](https://github.com/jubair2002/microservice-app-deployment-helmChart-AKS.git)** - microservice bsed python application deployment in azure kubernetes service(AKS) using helm charts.
 
-- 📫 How to reach me **hmjubair12@gmail.com** , **habibullah.jubair2002@outlook.com**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/jubair2002) and [Portfolio](https://jubair2002.github.io/jubair.github.io)
+## What I'm Doing
 
----
+- **Cloud Architecture** - Designing scalable, resilient infrastructure on AWS and Azure
+- **Kubernetes Deep Dive** - Mastering container orchestration and service mesh
+- **IaC Everything** - Terraforming all the things
+- **Learning in Public** - Sharing DevOps workflows and automation tips
 
-### Connect with Me
+## GitHub Activity
 
-<p align="left">
-<a href="https://linkedin.com/in/habibullah-jubair" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/jubair2002" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://jubair2002.github.io/jubair.github.io" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://twitter.com/your-profile" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://dev.to/your-profile" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
+<p align="center">
+  <img src="https://ghchart.rshah.org/jubair2002" alt="GitHub Contribution Graph" width="90%" />
 </p>
 
----
-
-### Tech Stack & Tools
-
-<p align="left">Here are some of the technologies and tools I work with:</p>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" alt="azure-devops" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a> <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40"/> </a> <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github-actions" width="40" height="40"/> </a> <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
----
-
-
-### GitHub Stats
-
-
-<div align=center>
-  <img width=420 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jubair2002&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=380 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jubair2002&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
----
-
-
 <div align="center">
-  <h3>Let's Connect!</h3>
-  <p>Feel free to reach out if you want to collaborate or just have a chat about DevOps and Cloud technologies!</p>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jubair2002&count_private=true&theme=react&border_radius=10" alt="streak stats" height="200" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jubair2002&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" height="200" />
 </div>
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Habibullah_Jubair-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/habibullah-jubair)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jubair2002)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://jubair2002.github.io/jubair.github.io)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hmjubair12@gmail.com)
+
+---
+
+<summary>More About Me</summary>
+
+-  Focus: Cloud-native architecture and Kubernetes
+-  Currently learning: Advanced K8s patterns, Service Mesh, GitOps
+-  Interested in: SRE practices, Platform Engineering
+-  Open to: DevOps collaboration and open-source contributions
