@@ -44,7 +44,7 @@
 | 3 | [K8s Monitoring](https://github.com/jubair2002/devops-cluster-monitoring-stack) | Kubernetes cluster observability with Grafana, Prometheus, Loki & Tempo |
 | 4 | [CI/CD GitOps](https://github.com/jubair2002/gitlab-ci-cd-with-GitOps-Deployment) | Automated CI/CD pipeline with GitOps deployment on AKS |
 | 5 | [Microservices AKS](https://github.com/jubair2002/microservice-app-deployment-helmChart-AKS) | Python microservice app deployment on AKS using Helm charts |
-
+| 6 | [Plant Disease Detection ML](https://github.com/jubair2002/plant-disease-detection-k8s) | Manage and deploy plant disease detection ML model app in Kubernetes with full CI/CD and GitOps declarative approach |
 ---
 
 ## What I'm Doing
