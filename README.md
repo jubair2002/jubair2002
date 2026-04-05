@@ -50,7 +50,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jubair2002&theme=default&hide_border=true&stroke=00c853&ring=00c853&fire=00c853" alt="streak stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubair2002&layout=compact&theme=default&hide_border=true&title_color=00c853&text_color=333333&marker_color=00c853" alt="top langs" height="180" />
 </p>
 
 <p align="center">
