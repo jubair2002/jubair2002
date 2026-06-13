@@ -18,7 +18,7 @@ Infrastructure automation · Kubernetes · CI/CD · Cloud-native systems
 
 I build and automate cloud infrastructure — from provisioning multi-cloud environments with Terraform to shipping apps via GitOps pipelines on Kubernetes. My focus is on reliability, observability, and cost-efficient systems that scale without adding operational complexity.
 
-Currently focused on platform engineering and cloud-native architecture across AWS and Azure.
+Currently focused on cloud application deployment and cloud-native architecture on AWS.
 
 ---
 
