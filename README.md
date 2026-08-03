@@ -24,8 +24,8 @@ I design and automate cloud infrastructure — from provisioning multi-cloud env
 
 Currently deep in **AWS cloud-native architecture**, building out full-stack observability (LGTM stack) on EKS and experimenting with AI-assisted infrastructure tooling.
 
-Completing BSc in CSE at United International University (2026)
-AWS Certified Solutions Architect – Associate
+Completing BSc in CSE at United International University (2026)  
+AWS Certified Solutions Architect – Associate  
 Open to Junior Cloud Engineer / DevOps roles — locally and internationally
 
 <br/>
@@ -65,64 +65,20 @@ Open to Junior Cloud Engineer / DevOps roles — locally and internationally
 
 <br/>
 
-## Featured Projects
+## DevOps & Cloud Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Production-Grade 3-Tier DevSecOps](https://github.com/jubair2002/production-grade-3Tier-DevSecOps-project)
-Product-catalog app deployed on **AWS EKS** with a full CI/CD DevSecOps pipeline and GitOps delivery — integrated security scanning end to end.
-
-`Kubernetes` `EKS` `DevSecOps` `GitOps` `CI/CD`
-
-</td>
-<td width="50%" valign="top">
-
-### [GitLab CI/CD with GitOps](https://github.com/jubair2002/gitlab-ci-cd-with-GitOps-Deployment)
-Automated, zero-manual-deploy pipeline to **AKS** using GitLab CI and ArgoCD — declarative and audit-friendly.
-
-`GitLab CI` `ArgoCD` `AKS` `GitOps`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Microservices on AKS with Helm](https://github.com/jubair2002/microservice-app-deployment-helmChart-AKS)
-Python-based microservice deployed to **Azure Kubernetes Service** using Helm charts, with configurable environments and release management.
-
-`Helm` `AKS` `Microservices` `Python`
-
-</td>
-<td width="50%" valign="top">
-
-### [3-Tier ECS Deployment](https://github.com/jubair2002/3tier-ECS-deployment)
-React frontend + backend on **ECS Fargate**, split across internet-facing and internal ALBs, backed by Multi-AZ RDS MySQL, deployed via GitHub Actions.
-
-`ECS Fargate` `ALB` `RDS` `GitHub Actions`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Highly Available Architecture (ALB + ASG)](https://github.com/jubair2002/highly-Available-Architecture-ALB-ASG-AWS)
-Hands-on, highly-available and scalable web architecture on AWS using Application Load Balancer and EC2 Auto Scaling.
-
-`AWS` `ALB` `Auto Scaling` `Shell`
-
-</td>
-<td width="50%" valign="top">
-
-### [Photo-Sharing App on AWS](https://github.com/jubair2002/photosharing-app-project-AWS)
-Multi-service AWS build combining IAM, EC2, S3, Lambda, Secrets Manager, KMS, and CloudWatch into one hands-on project.
-
-`AWS` `Lambda` `S3` `IAM` `KMS`
-
-</td>
-</tr>
-</table>
+| Project | Stack | Description |
+|---|---|---|
+| **[Multi-Repo Cloud Platform for a Pharma System](https://github.com/jubair2002/zen-pharma-DevSecOps-implementation)** | `Terraform` `EKS` `ArgoCD` `Microservices` | Designed a 4-repo cloud-native platform (infra, backend, frontend, GitOps) for a pharma app.<br>Provisioned AWS infra with Terraform and deployed Spring Boot microservices to EKS via ArgoCD. |
+| **[Secure CI/CD Pipeline for a 3-Tier App (DevSecOps)](https://github.com/jubair2002/production-grade-3Tier-DevSecOps-project)** | `Kubernetes` `EKS` `DevSecOps` `GitOps` | Built a production-style CI/CD pipeline for a product-catalog app on AWS EKS.<br>Integrated security scanning at every stage before GitOps-based deployment. |
+| **[AI Agent for Automated Kubernetes Troubleshooting](https://github.com/jubair2002/troubleshooting-ai-agent-kubernetes)** | `Python` `Gemini` `AI Agent` | Built an AI-powered agent that scans a cluster and diagnoses broken pods using Gemini.<br>Generates and applies multi-step `kubectl` fixes with human approval and audit logging. |
+| **[Full-Stack Observability for a Kubernetes Workload](https://github.com/jubair2002/devops-cluster-monitoring-stack)** | `Kubernetes` `Prometheus` `Grafana` | Deployed a Flask app to Kubernetes with Horizontal Pod Autoscaling for traffic spikes.<br>Instrumented cluster and app metrics with Prometheus and visualized them in Grafana. |
+| **[GitOps Deployment Pipeline for an ML Model](https://github.com/jubair2002/ml-model-deployment-cicd-gitops)** | `ArgoCD` `GitHub Actions` `Kubernetes` | Automated build-and-deploy for a plant-disease-detection ML model using GitHub Actions.<br>Used ArgoCD to auto-sync new image versions declaratively into the cluster. |
+| **[GitLab CI/CD to Azure Kubernetes Service](https://github.com/jubair2002/gitlab-ci-cd-with-GitOps-Deployment)** | `GitLab CI` `ArgoCD` `AKS` | Built a zero-manual-intervention deployment pipeline for an app running on AKS.<br>Used GitLab CI for builds and ArgoCD for declarative, audit-friendly delivery. |
+| **[Helm-Based Microservice Deployment on AKS](https://github.com/jubair2002/microservice-app-deployment-helmChart-AKS)** | `Helm` `AKS` `Python` | Packaged a Python microservice with Helm charts for repeatable Kubernetes deployments.<br>Supported multiple environments and streamlined release/version management. |
+| **[Highly Available 3-Tier App on ECS Fargate](https://github.com/jubair2002/3tier-ECS-deployment)** | `ECS Fargate` `ALB` `RDS` | Deployed a React frontend and backend on ECS Fargate behind public and internal ALBs.<br>Backed by Multi-AZ RDS MySQL for resilience, with GitHub Actions handling deploys. |
+| **[Scalable Web Architecture with Auto Scaling](https://github.com/jubair2002/highly-Available-Architecture-ALB-ASG-AWS)** | `AWS` `ALB` `Auto Scaling` | Built a self-healing, highly available web architecture on AWS from the ground up.<br>Used an Application Load Balancer with EC2 Auto Scaling Groups to handle variable load. |
+| **[Serverless Photo-Sharing App on AWS](https://github.com/jubair2002/photosharing-app-project-AWS)** | `Lambda` `S3` `IAM` `KMS` | Built a serverless photo-sharing app combining EC2, S3, and Lambda for core functionality.<br>Secured with IAM roles, KMS encryption, and Secrets Manager; monitored via CloudWatch. |
 
 <br/>
 
